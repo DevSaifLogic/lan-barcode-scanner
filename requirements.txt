@@ -1,0 +1,3 @@
+Flask
+PyAutoGUI
+pywin32; platform_system == "Windows"
